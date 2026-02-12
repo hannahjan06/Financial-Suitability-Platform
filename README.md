@@ -4,8 +4,6 @@ A smart financial guidance system that evaluates income patterns and risk exposu
 
 **Key Insight:** Not all financial support is good financial support.
 
-![Platform Preview](https://via.placeholder.com/800x400?text=Financial+Suitability+Platform)
-
 ## 🌟 Features
 
 ### Core Capabilities
@@ -291,8 +289,6 @@ MIT License - feel free to use this for social good!
 
 For questions or issues:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
-- Join our community discussions
 
 ---
 
